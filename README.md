@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@rk_gupta12" target="blank"><img src="https://img.shields.io/twitter/follow/@rk_gupta12?logo=twitter&style=for-the-badge" alt="@rk_gupta12" /></a> </p>
 
-/- 🌱 I’m currently learning **SpringBoot**/
+//- 🌱 I’m currently learning **SpringBoot**//
 
 - 👯 I’m looking to collaborate on **Interesting Projects**
 
